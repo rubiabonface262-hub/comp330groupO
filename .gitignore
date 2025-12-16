@@ -1,0 +1,21 @@
+# Java Spring Boot
+*.class
+*.jar
+target/
+
+# React/Node.js
+node_modules/
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# IDE files
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
