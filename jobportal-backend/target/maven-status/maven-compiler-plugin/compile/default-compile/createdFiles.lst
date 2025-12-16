@@ -1,0 +1,13 @@
+jobportal/jobportal/service/CompanyService.class
+jobportal/jobportal/entity/Application.class
+jobportal/jobportal/repository/CompanyRepository.class
+jobportal/jobportal/entity/Job.class
+jobportal/jobportal/repository/JobRepository.class
+jobportal/jobportal/controller/ApplicationController.class
+jobportal/jobportal/controller/JobController.class
+jobportal/jobportal/JobportalApplication.class
+jobportal/jobportal/repository/ApplicationRepository.class
+jobportal/jobportal/controller/CompanyController.class
+jobportal/jobportal/service/JobService.class
+jobportal/jobportal/service/ApplicationService.class
+jobportal/jobportal/entity/Company.class
